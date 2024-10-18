@@ -23,12 +23,8 @@ contents:
     code: 威尔逊定理.cpp
   - name: 扩展欧几里得
     code: 扩展欧几里得.cpp
-  - name: 排列组合
-    code-pre: 排列组合-pre.tex
   - name: 整除分块
     code: 整除分块.cpp
-  - name: 斐波那契数列
-    code-pre: 斐波那契数列-pre.tex
   - name: 欧拉函数
     code: 欧拉函数.cpp
   - name: 欧拉筛

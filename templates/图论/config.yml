@@ -17,9 +17,6 @@ contents:
     code: SPFA.cpp
   - name: dfs判二分图
     code: dfs判二分图.cpp
-  - name: lca
-    code-pre: lca-pre.tex
-    code-post: lca-post.tex
   - name: 匈牙利算法
     code: 匈牙利算法.cpp
   - name: 同余最短路
@@ -36,8 +33,6 @@ contents:
     code: 拓扑排序.cpp
   - name: 最长路
     code: 最长路.cpp
-  - name: 流
-    directory: 流
   - name: 点双联通分量
     code: 点双联通分量.cpp
   - name: 缩点
