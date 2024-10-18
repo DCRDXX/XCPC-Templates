@@ -1,25 +1,29 @@
-﻿contents:
+contents:
   - name: 01背包
     code: 01背包.cpp
-  - name: m元单调上升子序列
-    code: m元单调上升子序列.cpp
   - name: SOSDP
     code: SOSDP.cpp
-  - name: 多重背包
+  - name: m元单调上升子序列
+    code: m元单调上升子序列.cpp
+  - name: 二进制优化多重背包
     code: 二进制优化多重背包.cpp
-  - name: 区间dp
-    code: 区间dp.cpp
   - name: 全错排
     code: 全错排.cpp
+  - name: 区间dp
+    code: 区间dp.cpp
   - name: 四边形不等式优化dp
     code: 四边形不等式优化dp.cpp
+  - name: 多重背包
+    code: 多重背包.cpp
   - name: 完全背包
     code: 完全背包.cpp
+  - name: 数位dp
+    code: 数位dp.cpp
   - name: 最大子段和
     code: 最大子段和.cpp
+  - name: 最长上升子序列
+    code: 最长上升子序列.cpp
   - name: 最长公共子串
     code: 最长公共子串.cpp
   - name: 最长公共子序列
     code: 最长公共子序列.cpp
-  - name: 最长上升子序列
-    code: 最长上升子序列.cpp

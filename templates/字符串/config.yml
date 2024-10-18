@@ -5,12 +5,7 @@ contents:
     code: hash.cpp
   - name: kmp
     code: kmp.cpp
-  - name: 马拉车
-    code: 马拉车.cpp
   - name: 字典树
     code: 字典树.cpp
-
-
-
-
-
+  - name: 马拉车
+    code: 马拉车.cpp

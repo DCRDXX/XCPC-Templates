@@ -3,8 +3,6 @@ contents:
     code: 01BFS.cpp
   - name: Bellman-ford
     code: Bellman-ford.cpp
-  - name: dfs判二分图
-    code: dfs判二分图.cpp
   - name: Dijkstra
     code: Dijkstra.cpp
   - name: Floyd
@@ -17,36 +15,36 @@ contents:
     code: Prim.cpp
   - name: SPFA
     code: SPFA.cpp
-  - name: 边双联通分量
-    code: 边双联通分量.cpp
-  - name: 并查集判二分图
-    code: 并查集判二分图.cpp
-  - name: 点双联通分量
-    code: 点双联通分量.cpp
-  - name: 哈密顿路径
-    code: 哈密顿路径.cpp
-  - name: 链式前向星
-    code: 链式前向星.cpp
-  - name: 缩点
-    code: 缩点.cpp
-  - name: 拓扑排序
-    code: 拓扑排序.cpp
-  - name: 同余最短路
-    code: 同余最短路.cpp
-  - name: 网络流
-    code: 网络流.cpp
+  - name: dfs判二分图
+    code: dfs判二分图.cpp
+  - name: lca
+    code-pre: lca-pre.tex
+    code-post: lca-post.tex
   - name: 匈牙利算法
     code: 匈牙利算法.cpp
+  - name: 同余最短路
+    code: 同余最短路.cpp
+  - name: 哈密顿路径
+    code: 哈密顿路径.cpp
+  - name: 并查集判断二分图
+    code: 并查集判断二分图.cpp
+  - name: 强连通分量
+    code: 强连通分量.cpp
   - name: 找割点
     code: 找割点.cpp
+  - name: 拓扑排序
+    code: 拓扑排序.cpp
   - name: 最长路
     code: 最长路.cpp
-
-
-
-
-
-
-
-
-
+  - name: 流
+    directory: 流
+  - name: 点双联通分量
+    code: 点双联通分量.cpp
+  - name: 缩点
+    code: 缩点.cpp
+  - name: 网络流
+    code: 网络流.cpp
+  - name: 边双联通分量
+    code: 边双联通分量.cpp
+  - name: 链式前向星
+    code: 链式前向星.cpp

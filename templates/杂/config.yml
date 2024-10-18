@@ -7,36 +7,27 @@ contents:
     code: oset.cpp
   - name: sqrt向上取整
     code: sqrt向上取整.cpp
-  - name: 博弈1
-    code: 博弈1.cpp
-  - name: 二分图
-    code: 二分图.cpp
-  - name: 规律1
-    code: 规律1.cpp
-  - name: 矩形相交
-    code: 矩形相交.cpp
-  - name: 判断一个数是不是二的幂次
-    code: 判断一个数是不是二的幂次.cpp
-  - name: 期望1
-    code: 期望1.cpp
-  - name: 去重
-    code: 去重.cpp
-  - name: 全排列
-    code: 全排列.cpp
   - name: 上取整 下取整
     code: 上取整 下取整.cpp
-  - name: 随机模数
-    code: 随机模数.cpp
+  - name: 二分图
+    code: 二分图.cpp
+  - name: 全排列
+    code: 全排列.cpp
+  - name: 判断一个数是不是二的幂次
+    code: 判断一个数是不是二的幂次.cpp
+  - name: 博弈1
+    code: 博弈1.cpp
+  - name: 去重
+    code: 去重.cpp
   - name: 异或
     code: 异或.cpp
+  - name: 期望1
+    code: 期望1.cpp
+  - name: 矩形相交
+    code: 矩形相交.cpp
+  - name: 规律1
+    code: 规律1.cpp
   - name: 质数差
     code: 质数差.cpp
-  
-
-
-
-
-
-
-
-
+  - name: 随机模数
+    code: 随机模数.cpp

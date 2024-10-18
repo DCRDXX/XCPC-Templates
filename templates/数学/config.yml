@@ -1,28 +1,34 @@
 contents:
-  - name: Miller_Rabin + Pollard_Rho分解质因子
-    code: Miller_Rabin + Pollard_Rho分解质因子.cpp
   - name: MillerRabin
     code: MillerRabin.cpp
+  - name: Miller_Rabin + Pollard_Rho分解质因子
+    code: Miller_Rabin + Pollard_Rho分解质因子.cpp
   - name: Pollard_Rho
     code: Pollard_Rho.cpp
-  - name: 等比数列求和
-    code: 等比数列求和.cpp
-  - name: 等差数列求和
-    code: 等差数列求和.cpp
-  - name: 等差乘等比求和
-    code: 等差乘等比求和.cpp
-  - name: 费马小定理
-    code: 费马小定理.cpp
-  - name: 降幂
-    code: 降幂.cpp
-  - name: 矩阵
-    code: 矩阵.cpp
-  - name: 扩展欧几里得
-    code: 扩展欧几里得.cpp
+  - name: 中国剩余定理
+    code: 中国剩余定理.cpp
+  - name: 区间筛
+    code: 区间筛.cpp
   - name: 卢卡斯定理
     code: 卢卡斯定理.cpp
-  - name: 莫比乌斯函数
-    code: 莫比乌斯函数.cpp
+  - name: 因子个数O(n)
+    code: 因子个数O(n).cpp
+  - name: 因子个数O(nlogn)
+    code: 因子个数O(nlogn).cpp
+  - name: 因子和O(n)
+    code: 因子和O(n).cpp
+  - name: 因子和O(nlogn)
+    code: 因子和O(nlogn).cpp
+  - name: 威尔逊定理
+    code: 威尔逊定理.cpp
+  - name: 扩展欧几里得
+    code: 扩展欧几里得.cpp
+  - name: 排列组合
+    code-pre: 排列组合-pre.tex
+  - name: 整除分块
+    code: 整除分块.cpp
+  - name: 斐波那契数列
+    code-pre: 斐波那契数列-pre.tex
   - name: 欧拉函数
     code: 欧拉函数.cpp
   - name: 欧拉筛
@@ -31,23 +37,25 @@ contents:
     code: 求x的所有因子.cpp
   - name: 求区间内和k互质数的个数
     code: 求区间内和k互质数的个数.cpp
-  - name: 区间筛
-    code: 区间筛.cpp
-  - name: 威尔逊定理
-    code: 威尔逊定理.cpp
+  - name: 矩阵
+    code: 矩阵.cpp
+  - name: 等差乘等比求和
+    code: 等差乘等比求和.cpp
+  - name: 等差数列求和
+    code: 等差数列求和.cpp
+  - name: 等比数列求和
+    code: 等比数列求和.cpp
   - name: 线性基
     code: 线性基.cpp
   - name: 线性求逆元
     code: 线性求逆元.cpp
-  - name: 因子个数O(n)
-    code: 因子个数O(n).cpp
- - name: 因子个数O(nlogn)
-    code: 因子个数O(nlogn).cpp
- - name: 预处理log2
-    code: 预处理log2.cpp
- - name: 整除分块
-    code: 整除分块.cpp
- - name: 中国剩余定理
-    code: 中国剩余定理.cpp
- - name: 组合数
+  - name: 组合数
     code: 组合数.cpp
+  - name: 莫比乌斯函数
+    code: 莫比乌斯函数.cpp
+  - name: 费马小定理
+    code: 费马小定理.cpp
+  - name: 降幂
+    code: 降幂.cpp
+  - name: 预处理log2
+    code: 预处理log2.cpp
