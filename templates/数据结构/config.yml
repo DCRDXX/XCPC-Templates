@@ -1,7 +1,5 @@
-contents:
-  - name: disjoint_set_union
-    code: disjoint_set_union.cpp
-  - name: fenwick-tree
-    code: fenwick-tree.cpp
+﻿contents:
   - name: 并查集
     code: 并查集.cpp
+  - name: 带权并查集
+    code: 带权并查集.cpp
