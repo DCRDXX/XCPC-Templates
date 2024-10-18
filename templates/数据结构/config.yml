@@ -3,3 +3,43 @@
     code: 并查集.cpp
   - name: 带权并查集
     code: 带权并查集.cpp
+  - name: cdq分治求三维偏序
+    code: cdq分治求三维偏序.cpp
+  - name: LCA
+    code: LCA.cpp
+  - name: dsu on tree
+    code: dsu on tree.cpp
+  - name: ST表
+    code: ST表.cpp
+  - name: 单调队列找最值
+    code: 单调队列找最值.cpp
+  - name: 单调栈
+    code: 单调栈.cpp
+  - name: 对顶堆
+    code: 对顶堆.cpp
+  - name: 二维ST表
+    code: 二维ST表.cpp
+  - name: 归并排序
+    code: 归并排序.cpp
+  - name: 莫队
+    code: 莫队.cpp
+  - name: 区间异或和最值
+    code: 区间异或和最值.cpp
+  - name: 三分
+    code: 三分.cpp
+  - name: 扫描线求面积并
+    code: 扫描线求面积并.cpp
+  - name: 树的直径
+    code: 树的直径.cpp
+  - name: 树的重心
+    code: 树的重心.cpp
+  - name: 树状数组
+    code: 树状数组.cpp
+  - name: 线段树
+    code: 线段树.cpp
+  - name: 预处理LCA
+    code: 预处理LCA.cpp
+  - name: 主席树前k大之和
+    code: 主席树前k大之和.cpp
+  - name: 主席树区间第k小
+    code: 主席树区间第k小.cpp
